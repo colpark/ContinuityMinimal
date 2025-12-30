@@ -30,6 +30,7 @@ This is not optional—it is a **logical necessity** derived from how the brain 
 
 | File | Description |
 |------|-------------|
+| [ABSTRACT.md](./ABSTRACT.md) | One-paragraph summary of the complete argument |
 | [HYPOTHESIS.md](./HYPOTHESIS.md) | Core hypothesis and initial background |
 | [THEORY.md](./THEORY.md) | **Rigorous argument**: Buzsáki's claims → logical implications → AI requirements |
 
